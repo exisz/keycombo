@@ -1,19 +1,15 @@
 # Style Guide
 
 ## 设计参考
-- [参考网站1 URL] — 借鉴要素（配色/布局/卡片/字体/间距）
-- [参考网站2 URL] — 借鉴要素
-
-## DaisyUI Theme
-`data-theme="DAISY_THEME"` — 在 layout.tsx 中设置
+- https://usethekeyboard.com — 简洁的快捷键列表，键盘按键样式参考
+- https://shortcuts.design — 设计工具快捷键，分类导航，暗色主题参考
+- https://www.keybr.com — 键盘按键的 3D 视觉渲染效果
 
 ## 配色方案
-- Primary: #2563eb (修改 globals.css @theme)
-- Secondary: #7c3aed
-- Accent: #f59e0b
+DaisyUI theme: night (暗色主题更适合开发者/键盘主题)
 
 ## 设计决策
-- [ ] 卡片风格：
-- [ ] 布局模式：
-- [ ] 字体层级：
-- [ ] 间距规范：
+- 暗色主题 — 符合开发者审美，键盘按键在暗色背景上更突出
+- 键帽样式的按键渲染 — 使用 CSS 模拟真实键盘按键外观（阴影+渐变）
+- 卡片式应用列表 — 网格布局，带搜索和分类过滤
+- 分类标签 — 按应用类型（设计、开发、办公、社交等）分组

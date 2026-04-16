@@ -1,0 +1,1099 @@
+[
+  {
+    "slug": "1password",
+    "name": "1Password",
+    "shortcutCount": 28,
+    "categories": [
+      "Global Shortcuts",
+      "1Password App"
+    ]
+  },
+  {
+    "slug": "adobe-lightroom",
+    "name": "Adobe Lightroom CC",
+    "shortcutCount": 251,
+    "categories": [
+      "Working with panels",
+      "Navigating modules",
+      "Changing view and screen modes",
+      "Using a secondary window",
+      "Managing photos and catalogs",
+      "Comparing photos in the Library module",
+      "Rating and filtering photos",
+      "Working with collections",
+      "Working with metadata and keywords in the Library module",
+      "Working in the Develop module",
+      "Working in the Slideshow module",
+      "Working in the Print module",
+      "Working in the Web module",
+      "Using help"
+    ]
+  },
+  {
+    "slug": "adobe-photoshop",
+    "name": "Adobe Photoshop",
+    "shortcutCount": 283,
+    "categories": [
+      "Popular shortcuts",
+      "Use function keys",
+      "Select tools",
+      "View images",
+      "Use Puppet Warp",
+      "Use Refine Edge",
+      "Use the Filter Gallery",
+      "Use the Liquify filter",
+      "Use Vanishing Point",
+      "Use the Camera Raw dialog box",
+      "Use the Black-and-White dialog box",
+      "Use Curves",
+      "Transform selections, selection borders, and paths",
+      "Edit paths",
+      "Use for painting",
+      "Use for blending modes",
+      "Format type",
+      "Use panels",
+      "Use adjustment layers",
+      "Use the Brush panel",
+      "Use the Clone Source panel",
+      "Use the Layers panel"
+    ]
+  },
+  {
+    "slug": "adobe-xd",
+    "name": "Adobe XD",
+    "shortcutCount": 97,
+    "categories": [
+      "Keys for Edit menu",
+      "Keys for File menu",
+      "Keys for Pen/Path",
+      "Keys for Layers (Objects), Groups, and Artboards",
+      "Keys for Align",
+      "Keys for Arrange",
+      "Keys for Distribute",
+      "Keys for Text",
+      "Keys for Operations menu",
+      "Keys for Tools menu",
+      "Keys for Interface and Viewing Options",
+      "Keys for Design Specs",
+      "Keys for Vector Editing",
+      "Keys for Prototyping"
+    ]
+  },
+  {
+    "slug": "affinity-designer",
+    "name": "Affinity Designer",
+    "shortcutCount": 108,
+    "categories": [
+      "Designer Persona",
+      "Pixel Persona",
+      "Advanced Text",
+      "Modifiers and Layer Control"
+    ]
+  },
+  {
+    "slug": "affinity-photo",
+    "name": "Affinity Photo",
+    "shortcutCount": 177,
+    "categories": [
+      "Editing",
+      "Vector Graphics",
+      "Files",
+      "Tools",
+      "Tools (Liquify Persona)",
+      "Tools (Develop Persona)",
+      "Tools (Export Persona)",
+      "Tools (Panorama Persona)",
+      "Tools (Tone Mapping Persona)",
+      "Edit",
+      "Layer Operations",
+      "Brush",
+      "Text",
+      "View",
+      "Pixel Selection / Mask",
+      "Workspace",
+      "Adjustment and Filter",
+      "Liquify Persona",
+      "Misc"
+    ]
+  },
+  {
+    "slug": "airtable",
+    "name": "Airtable",
+    "shortcutCount": 36,
+    "categories": [
+      "General",
+      "Grid View",
+      "Gallery View",
+      "Kanban View",
+      "Expanded Record"
+    ]
+  },
+  {
+    "slug": "android-studio",
+    "name": "Android Studio",
+    "shortcutCount": 130,
+    "categories": [
+      "General",
+      "Navigating and Searching",
+      "Viewing Layouts",
+      "Layout Editor",
+      "Navigation Editor",
+      "Writing Code",
+      "Build and Run",
+      "Debugging",
+      "Refactoring",
+      "Version Control"
+    ]
+  },
+  {
+    "slug": "apex-legends",
+    "name": "Apex Legends",
+    "shortcutCount": 27,
+    "categories": [
+      "Movement",
+      "Weapons and Abilities",
+      "Communication"
+    ]
+  },
+  {
+    "slug": "apple-music",
+    "name": "Apple Music",
+    "shortcutCount": 62,
+    "categories": [
+      "Playing Music",
+      "Playlists",
+      "Library",
+      "Window Options",
+      "iTunes Store",
+      "Other"
+    ]
+  },
+  {
+    "slug": "arduino",
+    "name": "Arduino IDE",
+    "shortcutCount": 12,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "asana",
+    "name": "Asana",
+    "shortcutCount": 40,
+    "categories": [
+      "My Tasks",
+      "Inbox",
+      "Task Actions",
+      "Navigation",
+      "Selection",
+      "Application"
+    ]
+  },
+  {
+    "slug": "audacity",
+    "name": "Audacity",
+    "shortcutCount": 135,
+    "categories": [
+      "File Menu",
+      "Edit Menu",
+      "Select Menu",
+      "View Menu",
+      "Transport Menu",
+      "Tracks Menu",
+      "Effect Menu",
+      "Extra Menu"
+    ]
+  },
+  {
+    "slug": "bear-notes",
+    "name": "Bear",
+    "shortcutCount": 66,
+    "categories": [
+      "Text Styles",
+      "Todos",
+      "Structure",
+      "Lists",
+      "Dates",
+      "Control",
+      "Zoom",
+      "Panels and search",
+      "Navigation",
+      "Saving and importing",
+      "Window"
+    ]
+  },
+  {
+    "slug": "bitbucket",
+    "name": "Bitbucket",
+    "shortcutCount": 35,
+    "categories": [
+      "All pages",
+      "Most pages (except Your Work and Source)",
+      "Repository pages with sidebar",
+      "Repository source",
+      "Repository pages (except for Source)",
+      "Repository pages (except for Source and Settings)",
+      "Pull requests"
+    ]
+  },
+  {
+    "slug": "blender",
+    "name": "Blender",
+    "shortcutCount": 187,
+    "categories": [
+      "Universal",
+      "Object Mode",
+      "Edit Mode - General",
+      "Edit Mode - Mesh",
+      "Edit Mode - Curve",
+      "Edit Mode - Surface",
+      "Edit Mode - Font",
+      "VertexPaint",
+      "UV Editor",
+      "FaceSelect"
+    ]
+  },
+  {
+    "slug": "brave",
+    "name": "Brave Browser",
+    "shortcutCount": 64,
+    "categories": [
+      "Tabs and Windows",
+      "Browser",
+      "Address Bar",
+      "Webpage"
+    ]
+  },
+  {
+    "slug": "chrome-devtools",
+    "name": "Chrome Developer Tools",
+    "shortcutCount": 56,
+    "categories": [
+      "Opening DevTools",
+      "Global Shortcuts",
+      "Elements Panel",
+      "Sources Panel",
+      "Code Editor",
+      "Performance Panel",
+      "Memory Panel",
+      "Console Panel"
+    ]
+  },
+  {
+    "slug": "code-editor-ios",
+    "name": "Code Editor for iOS",
+    "shortcutCount": 43,
+    "categories": [
+      "General Shortcuts"
+    ]
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "shortcutCount": 28,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "dropbox",
+    "name": "Dropbox",
+    "shortcutCount": 9,
+    "categories": [
+      "Dropbox Website",
+      "Dropbox Desktop App"
+    ]
+  },
+  {
+    "slug": "evernote",
+    "name": "Evernote",
+    "shortcutCount": 90,
+    "categories": [
+      "Application-wide",
+      "Note Editor",
+      "Note List",
+      "Left Panel"
+    ]
+  },
+  {
+    "slug": "excel",
+    "name": "Excel",
+    "shortcutCount": 123,
+    "categories": [
+      "Navigating in cells",
+      "Formatting cells",
+      "Making selections and performing actions",
+      "Working with data, functions, and the formula bar",
+      "Power Pivot shortcuts"
+    ]
+  },
+  {
+    "slug": "feedly",
+    "name": "Feedly",
+    "shortcutCount": 25,
+    "categories": [
+      "General",
+      "Navigation",
+      "Lists",
+      "Selected Article"
+    ]
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "shortcutCount": 119,
+    "categories": [
+      "Essential",
+      "Tools",
+      "View",
+      "Zoom",
+      "Text",
+      "Shape",
+      "Selection",
+      "Cursor",
+      "Edit",
+      "Transform",
+      "Arrange",
+      "Components"
+    ]
+  },
+  {
+    "slug": "filezilla",
+    "name": "FileZilla",
+    "shortcutCount": 30,
+    "categories": [
+      "General Shortcuts"
+    ]
+  },
+  {
+    "slug": "finder",
+    "name": "Finder",
+    "shortcutCount": 55,
+    "categories": [
+      "Finder Shortcuts"
+    ]
+  },
+  {
+    "slug": "firefox",
+    "name": "Firefox",
+    "shortcutCount": 116,
+    "categories": [
+      "Navigation",
+      "Current Page",
+      "Editing",
+      "Search",
+      "Windows and Tabs",
+      "History",
+      "Bookmarks",
+      "Tools",
+      "PDF Viewer",
+      "Miscellaneous",
+      "Media Shortcuts"
+    ]
+  },
+  {
+    "slug": "fortnite",
+    "name": "Fortnite",
+    "shortcutCount": 26,
+    "categories": [
+      "Main Controls",
+      "Building",
+      "Communication"
+    ]
+  },
+  {
+    "slug": "framer-x",
+    "name": "Framer X",
+    "shortcutCount": 45,
+    "categories": [
+      "Tools",
+      "Graphics",
+      "Layout",
+      "Components",
+      "Text",
+      "Editing",
+      "View",
+      "Window"
+    ]
+  },
+  {
+    "slug": "gimp",
+    "name": "GIMP",
+    "shortcutCount": 97,
+    "categories": [
+      "Help",
+      "Toolbox",
+      "File",
+      "Dialogs",
+      "View",
+      "Edit",
+      "Layers",
+      "Selections",
+      "Plug-Ins"
+    ]
+  },
+  {
+    "slug": "github",
+    "name": "Github",
+    "shortcutCount": 80,
+    "categories": [
+      "Site wide shortcuts",
+      "Repositories",
+      "Source code editing",
+      "Source code browsing",
+      "Comments",
+      "Issue and pull request lists",
+      "Issues and pull requests",
+      "Changes in pull requests",
+      "Project boards",
+      "Notifications",
+      "Network graph"
+    ]
+  },
+  {
+    "slug": "gitlab",
+    "name": "GitLab",
+    "shortcutCount": 58,
+    "categories": [
+      "Global",
+      "Project",
+      "Issues and Merge Requests",
+      "Project Files",
+      "Web IDE",
+      "Repository Graph",
+      "Wiki Pages",
+      "Filtered Search",
+      "Epics"
+    ]
+  },
+  {
+    "slug": "gmail",
+    "name": "Gmail",
+    "shortcutCount": 90,
+    "categories": [
+      "Compose and Chat",
+      "Formatting Text",
+      "Actions",
+      "Hangouts",
+      "Jumping",
+      "Threadlist Selection",
+      "Navigation",
+      "Application"
+    ]
+  },
+  {
+    "slug": "google-chrome",
+    "name": "Google Chrome",
+    "shortcutCount": 65,
+    "categories": [
+      "Tab and window",
+      "Google Chrome features",
+      "Address bar",
+      "Webpage shortcuts"
+    ]
+  },
+  {
+    "slug": "google-drive",
+    "name": "Google Drive",
+    "shortcutCount": 54,
+    "categories": [
+      "Navigation and views",
+      "Select items",
+      "Move between items",
+      "Take action on selected items",
+      "Create new items",
+      "Open menus",
+      "Application actions",
+      "Preview mode actions"
+    ]
+  },
+  {
+    "slug": "guitar-pro",
+    "name": "Guitar Pro",
+    "shortcutCount": 129,
+    "categories": [
+      "Track",
+      "Bar - General",
+      "Bar - Section",
+      "Bar - Simile Mark",
+      "Note - General",
+      "Note - Duration",
+      "Note - Accidentals",
+      "Effects - General",
+      "Effects - Grace Note",
+      "Effects - Vibrato",
+      "Effects - Vibrato with Trem. Bar",
+      "Effects - Slide",
+      "Effects - Tremolo",
+      "Tools",
+      "Sound",
+      "View",
+      "Edit",
+      "General"
+    ]
+  },
+  {
+    "slug": "iterm",
+    "name": "iTerm",
+    "shortcutCount": 22,
+    "categories": [
+      "Multiple terminals",
+      "Splitting terminals",
+      "Interacting with the terminal",
+      "Changing font size"
+    ]
+  },
+  {
+    "slug": "jira",
+    "name": "Jira",
+    "shortcutCount": 44,
+    "categories": [
+      "Global Shortcuts",
+      "Agile Shortcuts",
+      "Issue Actions and Navigator Shortcuts"
+    ]
+  },
+  {
+    "slug": "kanbanmail",
+    "name": "KanbanMail",
+    "shortcutCount": 29,
+    "categories": [
+      "Global",
+      "Board",
+      "Email",
+      "Composer",
+      "Editor"
+    ]
+  },
+  {
+    "slug": "microsoft-teams",
+    "name": "Microsoft Teams",
+    "shortcutCount": 38,
+    "categories": [
+      "General",
+      "Navigation",
+      "Messaging",
+      "Meetings and Calls"
+    ]
+  },
+  {
+    "slug": "missive",
+    "name": "Missive",
+    "shortcutCount": 83,
+    "categories": [
+      "Navigation",
+      "Jumping",
+      "Selection",
+      "Application",
+      "Actions",
+      "Composer",
+      "Formatting",
+      "Calendar"
+    ]
+  },
+  {
+    "slug": "monday",
+    "name": "Monday.com",
+    "shortcutCount": 24,
+    "categories": [
+      "System",
+      "Board"
+    ]
+  },
+  {
+    "slug": "netflix",
+    "name": "Netflix",
+    "shortcutCount": 9,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "notepad-plus-plus",
+    "name": "Notepad++",
+    "shortcutCount": 74,
+    "categories": [
+      "General",
+      "Editor"
+    ]
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "shortcutCount": 40,
+    "categories": [
+      "Main",
+      "Content Creation & Editing",
+      "While Dragging",
+      "While Typing",
+      "While Blocks are Selected"
+    ]
+  },
+  {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "shortcutCount": 17,
+    "categories": [
+      "Default Shortcuts",
+      "Editing"
+    ]
+  },
+  {
+    "slug": "origami",
+    "name": "Origami Studio",
+    "shortcutCount": 71,
+    "categories": [
+      "General",
+      "Patches",
+      "Organizing Patches",
+      "Layers",
+      "Viewer",
+      "Number Inputs"
+    ]
+  },
+  {
+    "slug": "outlook",
+    "name": "Microsoft Outlook",
+    "shortcutCount": 210,
+    "categories": [
+      "Frequently used",
+      "Basic navigation",
+      "Search",
+      "Flags",
+      "Color categories",
+      "Create an item or file",
+      "Commands in most views",
+      "Mail",
+      "Calendar",
+      "People",
+      "Tasks",
+      "Format text",
+      "Add web information to items",
+      "Printing",
+      "Send/Receive",
+      "Visual Basic Editor",
+      "Macros",
+      "Forms"
+    ]
+  },
+  {
+    "slug": "phpstorm",
+    "name": "PhpStorm",
+    "shortcutCount": 96,
+    "categories": [
+      "Misc",
+      "Editing",
+      "Debugging",
+      "Running",
+      "Search/Replace",
+      "Usage Search",
+      "Navigation",
+      "Refactoring",
+      "VCS/Local History",
+      "General",
+      "Live Templates/Snippets"
+    ]
+  },
+  {
+    "slug": "pocket",
+    "name": "Pocket",
+    "shortcutCount": 36,
+    "categories": [
+      "Viewing Your List",
+      "Item Actions",
+      "Article View"
+    ]
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "shortcutCount": 23,
+    "categories": [
+      "Navigational Shortcuts",
+      "Manipulation Shortcuts",
+      "Global Shortcuts"
+    ]
+  },
+  {
+    "slug": "principle",
+    "name": "Principle",
+    "shortcutCount": 30,
+    "categories": [
+      "Layers",
+      "Editing",
+      "Canvas Navigation",
+      "Selection",
+      "Preview"
+    ]
+  },
+  {
+    "slug": "proto-io",
+    "name": "Proto.io",
+    "shortcutCount": 48,
+    "categories": [
+      "Main",
+      "History",
+      "Edit",
+      "Grid",
+      "View",
+      "Item",
+      "Group",
+      "States Preview"
+    ]
+  },
+  {
+    "slug": "putty",
+    "name": "PuTTy",
+    "shortcutCount": 32,
+    "categories": [
+      "General Shortcuts"
+    ]
+  },
+  {
+    "slug": "quip",
+    "name": "Quip.com",
+    "shortcutCount": 52,
+    "categories": [
+      "Anywhere",
+      "Style Shortcuts",
+      "Editing Shortcuts",
+      "Spreadsheets"
+    ]
+  },
+  {
+    "slug": "reddit",
+    "name": "Reddit",
+    "shortcutCount": 17,
+    "categories": [
+      "Navigation",
+      "Action"
+    ]
+  },
+  {
+    "slug": "roam",
+    "name": "Roam Research",
+    "shortcutCount": 45,
+    "categories": [
+      "General",
+      "Lists and Blocks",
+      "Version Control",
+      "Formatting"
+    ]
+  },
+  {
+    "slug": "sequel-pro",
+    "name": "Sequel Pro",
+    "shortcutCount": 71,
+    "categories": [
+      "Main Tabs",
+      "General Shortcuts",
+      "Select",
+      "Table Structure Tab",
+      "Table Content Tab",
+      "Custom Query Tab"
+    ]
+  },
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "shortcutCount": 50,
+    "categories": [
+      "General Shortcuts",
+      "Adding Items",
+      "Navigating Admin Panel"
+    ]
+  },
+  {
+    "slug": "sketch",
+    "name": "Sketch",
+    "shortcutCount": 149,
+    "categories": [
+      "General",
+      "Inserting Layers",
+      "Selecting Layers",
+      "Moving and Resizing Layers",
+      "Editing Layers",
+      "Vector Editing",
+      "Text Editing",
+      "Arranging Layers",
+      "Exporting Layers",
+      "Zoom and Focus",
+      "Text Fields",
+      "Miscellaneous"
+    ]
+  },
+  {
+    "slug": "sketchup",
+    "name": "SketchUp Pro",
+    "shortcutCount": 42,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "skype",
+    "name": "Skype",
+    "shortcutCount": 31,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "slack",
+    "name": "Slack",
+    "shortcutCount": 62,
+    "categories": [
+      "Navigation",
+      "All Unreads navigation",
+      "Switch workspaces",
+      "Mark messages read or unread",
+      "Message shortcuts",
+      "Message autocomplete",
+      "File and snippets",
+      "Call actions"
+    ]
+  },
+  {
+    "slug": "soundcloud",
+    "name": "SoundCloud",
+    "shortcutCount": 22,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "shortcutCount": 23,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "sublime-text",
+    "name": "Sublime Text",
+    "shortcutCount": 49,
+    "categories": [
+      "Editing",
+      "Navigation",
+      "General",
+      "Find/Replace",
+      "Split window",
+      "Bookmarks",
+      "Text manipulation"
+    ]
+  },
+  {
+    "slug": "superhuman",
+    "name": "Superhuman",
+    "shortcutCount": 105,
+    "categories": [
+      "Actions",
+      "Filters",
+      "Messages",
+      "Conversations",
+      "Folders (Press keys separately)",
+      "Format",
+      "Labels",
+      "Calendar",
+      "Navigation",
+      "Compose",
+      "Pop Out Compose"
+    ]
+  },
+  {
+    "slug": "table-plus",
+    "name": "TablePlus",
+    "shortcutCount": 34,
+    "categories": [
+      "Global",
+      "Workspace",
+      "Table Data"
+    ]
+  },
+  {
+    "slug": "telegram",
+    "name": "Telegram Desktop",
+    "shortcutCount": 37,
+    "categories": [
+      "Chats",
+      "Messages",
+      "Search",
+      "QuickShare Panel",
+      "Jump to",
+      "Window Related",
+      "Selected Text"
+    ]
+  },
+  {
+    "slug": "ticktick",
+    "name": "TickTick",
+    "shortcutCount": 25,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "todoist",
+    "name": "Todoist",
+    "shortcutCount": 37,
+    "categories": [
+      "Task Quick Add",
+      "General",
+      "Adding or editing tasks",
+      "Creating and completing sub-tasks",
+      "Sorting tasks inside a project",
+      "Navigation"
+    ]
+  },
+  {
+    "slug": "transmit",
+    "name": "Transmit",
+    "shortcutCount": 62,
+    "categories": [
+      "Transmit Menu",
+      "File Menu",
+      "Edit Menu",
+      "View Menu",
+      "Go Menu",
+      "Transfer Menu",
+      "Servers Menu",
+      "Window Menu"
+    ]
+  },
+  {
+    "slug": "trello",
+    "name": "Trello",
+    "shortcutCount": 29,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "twitter",
+    "name": "Twitter",
+    "shortcutCount": 26,
+    "categories": [
+      "Actions",
+      "Navigation",
+      "Timelines"
+    ]
+  },
+  {
+    "slug": "unity-3d",
+    "name": "Unity 3D",
+    "shortcutCount": 50,
+    "categories": [
+      "Tools",
+      "GameObject",
+      "Window",
+      "Edit",
+      "Selection",
+      "Assets",
+      "Animation"
+    ]
+  },
+  {
+    "slug": "vivaldi",
+    "name": "Vivaldi Browser",
+    "shortcutCount": 69,
+    "categories": [
+      "Window",
+      "View",
+      "Tab",
+      "Page"
+    ]
+  },
+  {
+    "slug": "vlc",
+    "name": "VLC Player",
+    "shortcutCount": 82,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "vs-code",
+    "name": "Visual Studio Code",
+    "shortcutCount": 124,
+    "categories": [
+      "General",
+      "Basic Editing",
+      "Navigation",
+      "Search and replace",
+      "Multi-cursor and selection",
+      "Rich languages editing",
+      "Editor management",
+      "File management",
+      "Display",
+      "Debug",
+      "Integrated terminal"
+    ]
+  },
+  {
+    "slug": "webflow",
+    "name": "Webflow",
+    "shortcutCount": 41,
+    "categories": [
+      "General",
+      "View",
+      "Left-hand Toolbar",
+      "Right-hand Tabs",
+      "Copy/Paste",
+      "Undo/Redo",
+      "Device View",
+      "Style Panel",
+      "Find",
+      "Other"
+    ]
+  },
+  {
+    "slug": "wordpress",
+    "name": "WordPress",
+    "shortcutCount": 34,
+    "categories": [
+      "Editor"
+    ]
+  },
+  {
+    "slug": "xcode",
+    "name": "Xcode",
+    "shortcutCount": 59,
+    "categories": [
+      "General",
+      "Interface",
+      "Code Editing",
+      "Build and Run",
+      "File Navigation",
+      "Debugging",
+      "Code Navigation",
+      "Libraries"
+    ]
+  },
+  {
+    "slug": "youtube",
+    "name": "YouTube",
+    "shortcutCount": 18,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "zoom-mac",
+    "name": "Zoom for Mac",
+    "shortcutCount": 32,
+    "categories": [
+      "Meetings",
+      "Chat Shortcuts",
+      "General Shortcuts"
+    ]
+  },
+  {
+    "slug": "zoom-windows",
+    "name": "Zoom for Windows",
+    "shortcutCount": 35,
+    "categories": [
+      "All Shortcuts"
+    ]
+  }
+]

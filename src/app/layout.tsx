@@ -6,48 +6,69 @@ import VercelAnalytics from "@/components/VercelAnalytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "SITE_TITLE",
-    template: "%s | SITE_TITLE",
+    default: "KeyCombo — Keyboard Shortcut Encyclopedia",
+    template: "%s | KeyCombo",
   },
-  description: "SITE_DESCRIPTION",
+  description:
+    "The ultimate keyboard shortcut cheat sheet library. Browse shortcuts for 85+ apps including VS Code, Photoshop, Excel, Figma, and more.",
   openGraph: {
-    title: "SITE_TITLE",
-    description: "SITE_DESCRIPTION",
-    url: "https://SUBDOMAIN.rollersoft.com.au",
-    siteName: "SITE_TITLE",
+    title: "KeyCombo — Keyboard Shortcut Encyclopedia",
+    description:
+      "The ultimate keyboard shortcut cheat sheet library for 85+ apps.",
+    url: "https://keycombo.starmap.quest",
+    siteName: "KeyCombo",
     locale: "en_AU",
     type: "website",
   },
   alternates: {
-    canonical: "https://SUBDOMAIN.rollersoft.com.au",
+    canonical: "https://keycombo.starmap.quest",
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
+  robots: { index: true, follow: true },
 };
 
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" data-theme="DAISY_THEME">
+    <html lang="en" data-theme="night">
       <head>
         <GoogleAnalytics />
         <GoogleAdSense />
       </head>
       <body className="min-h-dvh bg-base-100 flex flex-col">
         <VercelAnalytics />
-        <header className="navbar bg-primary text-primary-content shadow-lg">
-          <div className="container mx-auto px-4">
-            <a className="text-xl font-bold" href="/">SITE_TITLE</a>
+        <header className="navbar bg-base-200 border-b border-base-300">
+          <div className="container mx-auto px-4 flex items-center justify-between">
+            <a className="text-xl font-bold flex items-center gap-2" href="/">
+              <span className="text-2xl">⌨️</span>
+              <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                KeyCombo
+              </span>
+            </a>
+            <nav className="hidden sm:flex gap-4 text-sm">
+              <a href="/" className="link link-hover">
+                Home
+              </a>
+              <a href="/apps" className="link link-hover">
+                All Apps
+              </a>
+            </nav>
           </div>
         </header>
-        <main className="container mx-auto px-4 py-8 flex-1">
-          {children}
-        </main>
-        <footer className="footer footer-center p-6 bg-base-200 text-base-content mt-auto">
-          <p>© {new Date().getFullYear()} SITE_TITLE. Data sourced from public records.</p>
+        <main className="flex-1">{children}</main>
+        <footer className="footer footer-center p-6 bg-base-200 text-base-content mt-auto border-t border-base-300">
+          <p>
+            © {new Date().getFullYear()} KeyCombo. A{" "}
+            <a
+              href="https://rollersoft.com.au"
+              className="link link-primary"
+              target="_blank"
+              rel="noopener"
+            >
+              Rollersoft
+            </a>{" "}
+            project.
+          </p>
         </footer>
       </body>
     </html>
