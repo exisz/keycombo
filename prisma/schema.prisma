@@ -1,0 +1,21 @@
+// Prisma schema for Starmap sites
+// Provider: sqlite (Turso via @prisma/adapter-libsql at runtime)
+// Modify this schema per site — this is a starting template
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+// --- Example model (replace per site) ---
+// model Item {
+//   id        Int      @id @default(autoincrement())
+//   name      String
+//   slug      String   @unique
+//   data      String?  // JSON string for flexible data
+//   createdAt DateTime @default(now())
+//   updatedAt DateTime @updatedAt
+// }
