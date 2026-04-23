@@ -129,6 +129,26 @@
     ]
   },
   {
+    "slug": "american-truck-simulator-ats",
+    "name": "American Truck Simulator Ats",
+    "shortcutCount": 61,
+    "categories": [
+      "Main vehicle controls",
+      "Camera controls",
+      "Miscellaneous",
+      "Interface controllers"
+    ]
+  },
+  {
+    "slug": "among-us",
+    "name": "Among Us",
+    "shortcutCount": 7,
+    "categories": [
+      "General",
+      "Window"
+    ]
+  },
+  {
     "slug": "android-studio",
     "name": "Android Studio",
     "shortcutCount": 130,
@@ -177,6 +197,24 @@
     ]
   },
   {
+    "slug": "ark-survival-evolved",
+    "name": "Ark Survival Evolved",
+    "shortcutCount": 62,
+    "categories": [
+      "Movement",
+      "Battle",
+      "Camera",
+      "HUD",
+      "Actions",
+      "Chat",
+      "Whistles",
+      "Misc.",
+      "While riding a creature or vehicle",
+      "While in inventory",
+      "Building"
+    ]
+  },
+  {
     "slug": "asana",
     "name": "Asana",
     "shortcutCount": 40,
@@ -187,6 +225,19 @@
       "Navigation",
       "Selection",
       "Application"
+    ]
+  },
+  {
+    "slug": "assetto-corsa",
+    "name": "Assetto Corsa",
+    "shortcutCount": 66,
+    "categories": [
+      "Menu",
+      "In-game",
+      "VR (Oculus)",
+      "Multiplayer",
+      "Showroom",
+      "Undocumented shortcuts"
     ]
   },
   {
@@ -202,6 +253,19 @@
       "Tracks Menu",
       "Effect Menu",
       "Extra Menu"
+    ]
+  },
+  {
+    "slug": "beamng",
+    "name": "Beamng",
+    "shortcutCount": 70,
+    "categories": [
+      "General",
+      "Ctrl hotkeys",
+      "Alt hotkeys",
+      "Shift hotkeys",
+      "General debug",
+      "Vehicle debug"
     ]
   },
   {
@@ -254,6 +318,30 @@
     ]
   },
   {
+    "slug": "bloons-td-battles",
+    "name": "Bloons Td Battles",
+    "shortcutCount": 9,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "blox-fruits",
+    "name": "Blox Fruits",
+    "shortcutCount": 15,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "bloxburg-build-mode-pc",
+    "name": "Bloxburg Build Mode Pc",
+    "shortcutCount": 13,
+    "categories": [
+      "General"
+    ]
+  },
+  {
     "slug": "brave",
     "name": "Brave Browser",
     "shortcutCount": 64,
@@ -262,6 +350,14 @@
       "Browser",
       "Address Bar",
       "Webpage"
+    ]
+  },
+  {
+    "slug": "capcut-video-editor",
+    "name": "Capcut Video Editor",
+    "shortcutCount": 49,
+    "categories": [
+      "General"
     ]
   },
   {
@@ -280,11 +376,64 @@
     ]
   },
   {
+    "slug": "citrix-receiver",
+    "name": "Citrix Receiver",
+    "shortcutCount": 18,
+    "categories": [
+      "Windows Remote Desktop Client",
+      "Citrix Receiver Client"
+    ]
+  },
+  {
     "slug": "code-editor-ios",
     "name": "Code Editor for iOS",
     "shortcutCount": 43,
     "categories": [
       "General Shortcuts"
+    ]
+  },
+  {
+    "slug": "command-conquer-generals",
+    "name": "Command Conquer Generals",
+    "shortcutCount": 118,
+    "categories": [
+      "General",
+      "USA structures",
+      "USA units",
+      "China structures",
+      "China units",
+      "GLA structures"
+    ]
+  },
+  {
+    "slug": "counter-strike-global-offensive",
+    "name": "Counter Strike Global Offensive",
+    "shortcutCount": 56,
+    "categories": [
+      "Movement",
+      "Communication",
+      "Menu",
+      "Combat",
+      "Miscellaneous",
+      "Weapons: Pistols",
+      "Weapons: Shotguns",
+      "Weapons: Submachine guns",
+      "Weapons: Rifles",
+      "Weapons: Machine guns",
+      "Equipment",
+      "Equipment: Grenades"
+    ]
+  },
+  {
+    "slug": "dayz",
+    "name": "Dayz",
+    "shortcutCount": 57,
+    "categories": [
+      "Movement",
+      "General",
+      "Weapons",
+      "Vehicles",
+      "Communication"
     ]
   },
   {
@@ -302,6 +451,47 @@
     "categories": [
       "Dropbox Website",
       "Dropbox Desktop App"
+    ]
+  },
+  {
+    "slug": "ducky-one-2-mini",
+    "name": "Ducky One 2 Mini",
+    "shortcutCount": 111,
+    "categories": [
+      "RGB LED backlit modes",
+      "RGB LED zone customization modes",
+      "Fn shortcuts",
+      "Fn mouse shortcuts",
+      "Ducky Gaming interaction mode",
+      "Multimedia functions",
+      "Debounce time setting",
+      "Demo mode",
+      "Enable / Disable Windows key",
+      "Display mode",
+      "Reset to factory defaults",
+      "Ducky Mini Macro",
+      "Macro: Multimedia function keys",
+      "Macro: Keyboard button function keys"
+    ]
+  },
+  {
+    "slug": "duke-nukem-forever",
+    "name": "Duke Nukem Forever",
+    "shortcutCount": 28,
+    "categories": [
+      "General",
+      "Vehicles",
+      "Multiplayer"
+    ]
+  },
+  {
+    "slug": "ets2-euro-truck-simulator-2",
+    "name": "Ets2 Euro Truck Simulator 2",
+    "shortcutCount": 57,
+    "categories": [
+      "Vehicle controls",
+      "Interface controls",
+      "Camera controls"
     ]
   },
   {
@@ -325,6 +515,23 @@
       "Making selections and performing actions",
       "Working with data, functions, and the formula bar",
       "Power Pivot shortcuts"
+    ]
+  },
+  {
+    "slug": "fantasy-strike",
+    "name": "Fantasy Strike",
+    "shortcutCount": 6,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "farming-simulator-25",
+    "name": "Farming Simulator 25",
+    "shortcutCount": 27,
+    "categories": [
+      "General",
+      "Vehicles"
     ]
   },
   {
@@ -392,6 +599,32 @@
     ]
   },
   {
+    "slug": "fivem-gta-5-mod",
+    "name": "Fivem Gta 5 Mod",
+    "shortcutCount": 17,
+    "categories": [
+      "On foot & in vehicle",
+      "In vehicle",
+      "On foot"
+    ]
+  },
+  {
+    "slug": "fl-studio-20",
+    "name": "Fl Studio 20",
+    "shortcutCount": 136,
+    "categories": [
+      "General",
+      "Global: File operations",
+      "File Operations",
+      "Pattern Selector (numpad)",
+      "Channel Rack & Step Sequencer",
+      "Record / Playback / Transport",
+      "Window Navigation",
+      "Mixer",
+      "Playlist action"
+    ]
+  },
+  {
     "slug": "fortnite",
     "name": "Fortnite",
     "shortcutCount": 26,
@@ -399,6 +632,29 @@
       "Main Controls",
       "Building",
       "Communication"
+    ]
+  },
+  {
+    "slug": "fortnite-battle-royale",
+    "name": "Fortnite Battle Royale",
+    "shortcutCount": 84,
+    "categories": [
+      "Movement",
+      "Combat",
+      "Building",
+      "Communication",
+      "Emote",
+      "Misc",
+      "Vehicles",
+      "Vehicles - Shopping cart",
+      "Vehicles - Pirate cannon",
+      "Vehicles - All terrain kart (ATK)",
+      "Vehicles - Quadcrasher",
+      "Vehicles - Driftboard",
+      "Vehicles - Baller",
+      "Vehicles - X-4 Stormwing",
+      "Creative",
+      "Replay"
     ]
   },
   {
@@ -414,6 +670,54 @@
       "Editing",
       "View",
       "Window"
+    ]
+  },
+  {
+    "slug": "gang-beasts",
+    "name": "Gang Beasts",
+    "shortcutCount": 21,
+    "categories": [
+      "General",
+      "Other"
+    ]
+  },
+  {
+    "slug": "garena-free-fire",
+    "name": "Garena Free Fire",
+    "shortcutCount": 16,
+    "categories": [
+      "Movement",
+      "Weapons and items"
+    ]
+  },
+  {
+    "slug": "geforce-experience-geforce-now",
+    "name": "Geforce Experience Geforce Now",
+    "shortcutCount": 18,
+    "categories": [
+      "General",
+      "Broadcasting",
+      "GeForce Now"
+    ]
+  },
+  {
+    "slug": "genshin-impact",
+    "name": "Genshin Impact",
+    "shortcutCount": 37,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "ghost-of-tsushima-pc",
+    "name": "Ghost Of Tsushima Pc",
+    "shortcutCount": 40,
+    "categories": [
+      "Movement",
+      "Abilities",
+      "Combat",
+      "Legends",
+      "General"
     ]
   },
   {
@@ -467,6 +771,16 @@
     ]
   },
   {
+    "slug": "glorious-modular-mechanical-keyboard-compact-gmmk",
+    "name": "Glorious Modular Mechanical Keyboard Compact Gmmk",
+    "shortcutCount": 44,
+    "categories": [
+      "General",
+      "Function and multimedia keys",
+      "LED animations"
+    ]
+  },
+  {
     "slug": "gmail",
     "name": "Gmail",
     "shortcutCount": 90,
@@ -505,6 +819,23 @@
       "Open menus",
       "Application actions",
       "Preview mode actions"
+    ]
+  },
+  {
+    "slug": "grand-theft-auto-v-gta-5",
+    "name": "Grand Theft Auto V Gta 5",
+    "shortcutCount": 108,
+    "categories": [
+      "General",
+      "Combat",
+      "Selecting weapons",
+      "Vehicles general",
+      "Cars, bikes, boats",
+      "Aircraft",
+      "Parachutes",
+      "Phone",
+      "Director mode",
+      "Timeline"
     ]
   },
   {
@@ -554,6 +885,16 @@
     ]
   },
   {
+    "slug": "jupyter-notebook",
+    "name": "Jupyter Notebook",
+    "shortcutCount": 61,
+    "categories": [
+      "Command mode",
+      "Edit mode",
+      "Misc"
+    ]
+  },
+  {
     "slug": "kanbanmail",
     "name": "KanbanMail",
     "shortcutCount": 29,
@@ -566,6 +907,66 @@
     ]
   },
   {
+    "slug": "krita",
+    "name": "Krita",
+    "shortcutCount": 136,
+    "categories": [
+      "Blending modes",
+      "Filters",
+      "General",
+      "Layers",
+      "Painting",
+      "Tool",
+      "File menu",
+      "Edit menu",
+      "Filter menu",
+      "Help",
+      "Image menu",
+      "Select menu",
+      "View menu",
+      "Scripts: Ten Brushes"
+    ]
+  },
+  {
+    "slug": "league-of-legends-lol",
+    "name": "League Of Legends Lol",
+    "shortcutCount": 47,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "linux-mint-cinnamon",
+    "name": "Linux Mint Cinnamon",
+    "shortcutCount": 39,
+    "categories": [
+      "Frequently used shortcuts"
+    ]
+  },
+  {
+    "slug": "litematica",
+    "name": "Litematica",
+    "shortcutCount": 6,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "lspdfr-gta-5",
+    "name": "Lspdfr Gta 5",
+    "shortcutCount": 44,
+    "categories": [
+      "Default",
+      "PoliceSmartRadio 1.1.1.1",
+      "Traffic Policer 6.13.7.0",
+      "Arrest Manager 7.9.0.0",
+      "MakePedsCalmAgain_1.1.0.0",
+      "Keep Calm _ v1.0.0",
+      "LSPDFR&#x2B; 1.6.5.3",
+      "Traffic Control _ v1.0.2"
+    ]
+  },
+  {
     "slug": "microsoft-teams",
     "name": "Microsoft Teams",
     "shortcutCount": 38,
@@ -574,6 +975,38 @@
       "Navigation",
       "Messaging",
       "Meetings and Calls"
+    ]
+  },
+  {
+    "slug": "microsoft-word",
+    "name": "Microsoft Word",
+    "shortcutCount": 128,
+    "categories": [
+      "Ribbon: Access keys",
+      "Ribbon: Change focus by using the keyboard",
+      "Create and edit documents",
+      "Work with web content",
+      "Print and preview documents",
+      "Check spelling and review changes in a document",
+      "Find, replace, and go to specific items",
+      "Move around in a document",
+      "Insert or mark table of contents, footnotes and citations",
+      "Switch to another view of the document",
+      "Working with headings in Outline view",
+      "Move through document in Read View mode",
+      "Extending selection",
+      "Delete text and graphics"
+    ]
+  },
+  {
+    "slug": "minecraft-java-edition",
+    "name": "Minecraft Java Edition",
+    "shortcutCount": 49,
+    "categories": [
+      "Non-configurable hotkeys",
+      "Debug screen",
+      "Configurable hotkeys",
+      "Gameplay"
     ]
   },
   {
@@ -598,6 +1031,43 @@
     "categories": [
       "System",
       "Board"
+    ]
+  },
+  {
+    "slug": "moonlight-stream",
+    "name": "Moonlight Stream",
+    "shortcutCount": 12,
+    "categories": [
+      "General",
+      "Android client"
+    ]
+  },
+  {
+    "slug": "mpv-media-player",
+    "name": "Mpv Media Player",
+    "shortcutCount": 55,
+    "categories": [
+      "General",
+      "Navigation",
+      "Playback",
+      "Subtitles",
+      "Move video rectangle",
+      "Misc"
+    ]
+  },
+  {
+    "slug": "nba-2k26",
+    "name": "Nba 2k26",
+    "shortcutCount": 99,
+    "categories": [
+      "Basic Offense",
+      "Basic Defense",
+      "Advanced Offense",
+      "Advanced Defense",
+      "Pro Stick: Shooting",
+      "Pro Stick: Dribbling",
+      "Advanced Dribbling",
+      "Post Moves"
     ]
   },
   {
@@ -639,6 +1109,36 @@
     ]
   },
   {
+    "slug": "opera",
+    "name": "Opera",
+    "shortcutCount": 99,
+    "categories": [
+      "Essentials",
+      "Basic interface functions",
+      "Movement",
+      "Focus",
+      "System keys",
+      "Text keys: Editing",
+      "Text keys: Find",
+      "Loading keys: Access",
+      "Loading keys: Transmission",
+      "Navigation: History",
+      "Navigation: Site navigation",
+      "Display modes",
+      "Source",
+      "Zooming"
+    ]
+  },
+  {
+    "slug": "oracle-vm-virtualbox",
+    "name": "Oracle Vm Virtualbox",
+    "shortcutCount": 64,
+    "categories": [
+      "VirtualBox manager",
+      "Virtual machine"
+    ]
+  },
+  {
     "slug": "origami",
     "name": "Origami Studio",
     "shortcutCount": 71,
@@ -674,6 +1174,39 @@
       "Visual Basic Editor",
       "Macros",
       "Forms"
+    ]
+  },
+  {
+    "slug": "parallel-launcher",
+    "name": "Parallel Launcher",
+    "shortcutCount": 42,
+    "categories": [
+      "Hotkeys",
+      "Controller Mappings"
+    ]
+  },
+  {
+    "slug": "pdf-xchange-editor",
+    "name": "Pdf Xchange Editor",
+    "shortcutCount": 102,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "pga-2k25",
+    "name": "Pga 2k25",
+    "shortcutCount": 17,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "phasmophobia",
+    "name": "Phasmophobia",
+    "shortcutCount": 12,
+    "categories": [
+      "General"
     ]
   },
   {
@@ -761,12 +1294,33 @@
     ]
   },
   {
+    "slug": "ready-or-not",
+    "name": "Ready Or Not",
+    "shortcutCount": 61,
+    "categories": [
+      "Movement",
+      "Interaction",
+      "Equipment",
+      "Teamwork",
+      "Misc."
+    ]
+  },
+  {
     "slug": "reddit",
     "name": "Reddit",
     "shortcutCount": 17,
     "categories": [
       "Navigation",
       "Action"
+    ]
+  },
+  {
+    "slug": "renpy",
+    "name": "Renpy",
+    "shortcutCount": 16,
+    "categories": [
+      "General",
+      "Developer"
     ]
   },
   {
@@ -778,6 +1332,42 @@
       "Lists and Blocks",
       "Version Control",
       "Formatting"
+    ]
+  },
+  {
+    "slug": "roblox",
+    "name": "Roblox",
+    "shortcutCount": 29,
+    "categories": [
+      "General",
+      "Accessories",
+      "Camera",
+      "Advanced control",
+      "Pause menu",
+      "Developer tools"
+    ]
+  },
+  {
+    "slug": "royal-kludge-rk61",
+    "name": "Royal Kludge Rk61",
+    "shortcutCount": 37,
+    "categories": [
+      "Combination key swithcing",
+      "Modes",
+      "Backlight mode",
+      "Other FN key combinations"
+    ]
+  },
+  {
+    "slug": "ryujinx-1",
+    "name": "Ryujinx 1",
+    "shortcutCount": 24,
+    "categories": [
+      "Player 1 - Buttons",
+      "Player 1 - Directional pad",
+      "Player 1 - Left stick",
+      "Player 1 - Right stick",
+      "Player 1 - Triggers"
     ]
   },
   {
@@ -926,6 +1516,41 @@
     ]
   },
   {
+    "slug": "the-darkness-2",
+    "name": "The Darkness 2",
+    "shortcutCount": 13,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "the-forest",
+    "name": "The Forest",
+    "shortcutCount": 44,
+    "categories": [
+      "Menu",
+      "Movement",
+      "World",
+      "Build",
+      "Inventory",
+      "Multiplayer",
+      "Unlisted shortcuts",
+      "Boats"
+    ]
+  },
+  {
+    "slug": "the-sims-4",
+    "name": "The Sims 4",
+    "shortcutCount": 68,
+    "categories": [
+      "General",
+      "Camera controls in live and build mode",
+      "Live mode",
+      "Buy and Build mode",
+      "Bonus: Cheats"
+    ]
+  },
+  {
     "slug": "ticktick",
     "name": "TickTick",
     "shortcutCount": 25,
@@ -944,6 +1569,30 @@
       "Creating and completing sub-tasks",
       "Sorting tasks inside a project",
       "Navigation"
+    ]
+  },
+  {
+    "slug": "train-sim-world-5",
+    "name": "Train Sim World 5",
+    "shortcutCount": 98,
+    "categories": [
+      "General & UI",
+      "Primary Driving Controls",
+      "Braking Systems",
+      "Safety & Signaling",
+      "Lights & Visibility",
+      "Doors & Coupling",
+      "Electrical & Power",
+      "Steam Locomotive Specifics",
+      "Communication & Miscellaneous"
+    ]
+  },
+  {
+    "slug": "train-sim-world-6",
+    "name": "Train Sim World 6",
+    "shortcutCount": 20,
+    "categories": [
+      "General"
     ]
   },
   {
@@ -991,6 +1640,36 @@
       "Selection",
       "Assets",
       "Animation"
+    ]
+  },
+  {
+    "slug": "valorant-pc",
+    "name": "Valorant Pc",
+    "shortcutCount": 44,
+    "categories": [
+      "Movement",
+      "Equipment",
+      "Communication",
+      "Interface"
+    ]
+  },
+  {
+    "slug": "visual-studio-code-windows",
+    "name": "Visual Studio Code Windows",
+    "shortcutCount": 136,
+    "categories": [
+      "General",
+      "Basic editing",
+      "Navigation",
+      "Search and replace",
+      "Multi-cursor and selection",
+      "Rich languages editing",
+      "Editor management",
+      "File management",
+      "Display",
+      "Debug",
+      "Integrated terminal",
+      "JSON Tools extension"
     ]
   },
   {
@@ -1048,6 +1727,39 @@
     ]
   },
   {
+    "slug": "whatsapp-web-desktop",
+    "name": "Whatsapp Web Desktop",
+    "shortcutCount": 22,
+    "categories": [
+      "General"
+    ]
+  },
+  {
+    "slug": "windows-10-all-keyboard",
+    "name": "Windows 10 All Keyboard",
+    "shortcutCount": 63,
+    "categories": [
+      "Start Menu and Taskbar",
+      "Accessibility",
+      "Desktop",
+      "Windows key",
+      "Windows 10 OOBE"
+    ]
+  },
+  {
+    "slug": "windows-11",
+    "name": "Windows 11",
+    "shortcutCount": 130,
+    "categories": [
+      "New in Windows 11",
+      "PowerToys",
+      "General",
+      "With Windows key",
+      "Dialog boxes",
+      "File Explorer"
+    ]
+  },
+  {
     "slug": "wordpress",
     "name": "WordPress",
     "shortcutCount": 34,
@@ -1068,6 +1780,18 @@
       "Debugging",
       "Code Navigation",
       "Libraries"
+    ]
+  },
+  {
+    "slug": "xfce",
+    "name": "Xfce",
+    "shortcutCount": 51,
+    "categories": [
+      "Window manipulation",
+      "Move window to workplace",
+      "Switching workspace",
+      "Application shortcuts",
+      "Misc."
     ]
   },
   {
