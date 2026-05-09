@@ -1,0 +1,11 @@
+id: dna://site/keycombo
+type: site
+title: "KeyCombo — Keyboard Shortcut Encyclopedia & Cheat Sheet Library for 200+ Apps"
+url: https://keycombo.starmap.quest
+repo: exisz/keycombo
+managed_by: dna://agent/starmap
+deployed_by: dna://agent/starmap
+status: deployed
+star_ticket: STAR-517
+tracked_in:
+  - dna://board/star
